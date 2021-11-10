@@ -11,13 +11,13 @@ images:
     newTag: 1.0.4 # {"$imagepolicy": "flux-system:editor:tag"}
   - name: match
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/match-ms # {"$imagepolicy": "flux-system:match:name"}
-    newTag: 1.0.4 # {"$imagepolicy": "flux-system:match:tag"}
+    newTag: 1.0.5 # {"$imagepolicy": "flux-system:match:tag"}
   - name: question
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/question-ms # {"$imagepolicy": "flux-system:question:name"}
-    newTag: 1.0.4 # {"$imagepolicy": "flux-system:question:tag"}
+    newTag: 1.0.5 # {"$imagepolicy": "flux-system:question:tag"}
   - name: user
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/user-ms # {"$imagepolicy": "flux-system:user:name"}
-    newTag: 1.0.4 # {"$imagepolicy": "flux-system:user:tag"}
+    newTag: 1.0.5 # {"$imagepolicy": "flux-system:user:tag"}
   - name: video-chat
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/video-chat-ms # {"$imagepolicy": "flux-system:video-chat:name"}
     newTag: 1.0.4 # {"$imagepolicy": "flux-system:video-chat:tag"}
