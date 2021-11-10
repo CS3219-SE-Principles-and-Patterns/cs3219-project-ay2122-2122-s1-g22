@@ -5,7 +5,7 @@ bases:
 images:
   - name: chat
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/chat-ms # {"$imagepolicy": "flux-system:chat:name"}
-    newTag: 1.0.4 # {"$imagepolicy": "flux-system:chat:tag"}
+    newTag: 1.0.5 # {"$imagepolicy": "flux-system:chat:tag"}
   - name: editor
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/editor-ms # {"$imagepolicy": "flux-system:editor:name"}
     newTag: 1.0.5 # {"$imagepolicy": "flux-system:editor:tag"}
@@ -20,4 +20,4 @@ images:
     newTag: 1.0.5 # {"$imagepolicy": "flux-system:user:tag"}
   - name: video-chat
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/video-chat-ms # {"$imagepolicy": "flux-system:video-chat:name"}
-    newTag: 1.0.4 # {"$imagepolicy": "flux-system:video-chat:tag"}
+    newTag: 1.0.5 # {"$imagepolicy": "flux-system:video-chat:tag"}
