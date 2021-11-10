@@ -5,7 +5,7 @@ bases:
 images:
   - name: chat
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/chat-ms # {"$imagepolicy": "flux-system:chat:name"}
-    newTag: master-097fe0c-1636527139 # {"$imagepolicy": "flux-system:chat:tag"}
+    newTag: master-7ea339a-1636534864 # {"$imagepolicy": "flux-system:chat:tag"}
   - name: editor
     newName: 694217600744.dkr.ecr.ap-southeast-1.amazonaws.com/editor-ms # {"$imagepolicy": "flux-system:editor:name"}
     newTag: master-84df5c0-1636521162 # {"$imagepolicy": "flux-system:editor:tag"}
